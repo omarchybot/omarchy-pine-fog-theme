@@ -28,13 +28,18 @@ omarchy theme install https://github.com/sumdahl/omarchy-pine-fog-theme
 
 ## Wallpapers
 
-- `00-first-light.jpg`, `06-trail-map.jpg`: original, made for this theme.
-- `01-into-the-woods.jpg`: Rosie Fraser (Unsplash), *Are we into the woods?*, CC0.
-- `02-hyatt-lake.jpg`: BLM Oregon & Washington, *Night sky from Hyatt Lake*, CC BY 2.0.
-- `03-herbarium.jpg`: original, made for this theme, with the plate *Pinus sylvestris* from Otto Wilhelm Thomé, *Flora von Deutschland, Österreich und der Schweiz*, 1885, public domain.
-- `04-pokljuka.jpg`: Dreamy Pixel, *Winter cottage at night at Pokljuka*, CC BY 4.0.
-- `05-forest-in-moonlight.jpg`: Georg Eduard Otto Saal, *Forest Landscape in the Moonlight*, Rijksmuseum Amsterdam, public domain.
-- `07-boreal-night.jpg`: Carl Young, *Stars in the night sky above the boreal forest, Chisasibi, Quebec, Canada*, CC BY-SA 4.0.
+- `00-first-light.jpg`, `10-trail-map.jpg`: original, made for this theme.
+- `01-pines-in-fog.jpg`: Jay Mantri (via Pexels), *Nature-forest-trees-fog*, CC0.
+- `02-fanal.jpg`: Dietmar Rabich / Wikimedia Commons, *Fanal (Madeira, Portugal), Lorbeerwald -- 2025 -- 1532*, CC BY-SA 4.0.
+- `03-bruderwald.jpg`: Reinhold Möller (Ermell), *Bruderwald Nebel 286411*, CC BY-SA 4.0.
+- `04-uetliberg.jpg`: Kuhnmi, *Baumsilhouetten am Uetliberg mit Novembernebel und Sonnenstrahlen*, CC BY-SA 4.0.
+- `05-lysekil.jpg`: W.carter, *Forested hills in Lysekil in fog - B&W*, CC BY-SA 4.0. Pine → moss → fog duotone added.
+- `06-eorimok-trail.jpg`: Basile Morin, *Wooden staircase steps in the forest of Hallasan Park Eorimok Trail at dusk*, CC BY-SA 4.0.
+- `07-light-through-the-forest.jpg`: O'Cker, *Sun rays through the forest trees* (Tasmania), CC BY-SA 4.0.
+- `08-karula.jpg`: Amadvr, *Karula vaade* (Karula National Park, Estonia), CC BY-SA 3.0 EE.
+- `09-morning-in-a-pine-forest.jpg`: Ivan Shishkin & Konstantin Savitsky, *Morning in a Pine Forest*, 1889, Tretyakov Gallery, public domain.
+
+Each photo is framed on the theme background with a caption and graded slightly. The modified CC BY-SA images are shared under the same licenses.
 
 ## License
 
